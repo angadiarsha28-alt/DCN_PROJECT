@@ -161,8 +161,3 @@ This project provides a structured comparison of Machine Learning models to iden
 
 ---
 
-## ⚠️ Viva Note
-
-If asked “Where is the code?”:
-
-This project focuses on result analysis and comparison. The implementation was executed separately, and results are documented here.
